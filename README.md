@@ -1,4 +1,5 @@
 ### Hi there 👋
+⚡ newbie "wannaBadmin"
 
 <!--
 **gum1k/gum1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
