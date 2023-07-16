@@ -1,6 +1,6 @@
 ### Hi there 👋
 ⚡ newbie "wannaBadmin"
-crypto_a_bit_sceptic
+crypto_a_bit_sceptic;
 blockchain fan
 
 <!--
